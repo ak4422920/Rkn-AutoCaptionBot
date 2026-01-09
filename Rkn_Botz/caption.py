@@ -112,9 +112,9 @@ async def start_cmd(client, message):
             f"Note: Commands only work in channels where I'm admin.</b>"
         ),
         reply_markup=types.InlineKeyboardMarkup([
-            [types.InlineKeyboardButton("📢 Main Channel", url="https://t.me/Rkn_Bots_Updates")],
-            [types.InlineKeyboardButton("❓ Help Group", url="https://t.me/Rkn_Bots_Support")],
-            [types.InlineKeyboardButton("🔥 Source Code", url="https://github.com/RknDeveloper/Rkn-AutoCaptionBot")]
+            [types.InlineKeyboardButton("📢 Main Channel", url="https://t.me/AkMovieVerse")],
+            [types.InlineKeyboardButton("🖼️ Wallpaper", url="https://t.me/Rkn_Bots_Support")],
+            [types.InlineKeyboardButton("🔥 Adult Channel", url="https://t.me/PurelySin")]
         ])
     )
 
